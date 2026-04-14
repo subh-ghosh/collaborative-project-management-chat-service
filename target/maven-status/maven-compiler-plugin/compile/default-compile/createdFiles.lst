@@ -1,0 +1,6 @@
+com/sprintsense/chatservice/MessageController.class
+com/sprintsense/chatservice/RedisConfig.class
+com/sprintsense/chatservice/Message.class
+com/sprintsense/chatservice/MessageRepository.class
+com/sprintsense/chatservice/MessageConsumer.class
+com/sprintsense/chatservice/ChatServiceApplication.class

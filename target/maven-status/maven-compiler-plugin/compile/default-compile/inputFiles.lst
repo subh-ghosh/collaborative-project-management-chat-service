@@ -1,0 +1,6 @@
+/usr/src/app/src/main/java/com/sprintsense/chatservice/ChatServiceApplication.java
+/usr/src/app/src/main/java/com/sprintsense/chatservice/MessageConsumer.java
+/usr/src/app/src/main/java/com/sprintsense/chatservice/MessageRepository.java
+/usr/src/app/src/main/java/com/sprintsense/chatservice/RedisConfig.java
+/usr/src/app/src/main/java/com/sprintsense/chatservice/Message.java
+/usr/src/app/src/main/java/com/sprintsense/chatservice/MessageController.java
